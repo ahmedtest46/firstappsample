@@ -1,0 +1,2 @@
+alert("hi");
+prompt("hi");
